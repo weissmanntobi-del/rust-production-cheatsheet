@@ -1,5 +1,5 @@
 
-# rust-production-cheatsheet
+# Rust-Production-Cheatsheet
 Rust Production Cheatsheet (PDF/DOCX) — Build Real-World Apps: Security, Backend, Blockchain, DevOps <br/>
 
 Stop bouncing between docs and scattered blog posts. This Rust Production Cheatsheet is a practical mini-book designed to help you go from “I know Rust basics” to shipping production-grade Rust applications. <br/>
